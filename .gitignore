@@ -95,8 +95,14 @@ Thumbs.db
 # **8. Logs e Bancos de Dados locais**
 # ------------------------------------------------------------------------------
 
-# **Arquivos de log e bancos de dados SQLite de desenvolvimento.**
 
 *.log  
 *.db  
 *.sqlite3
+
+# **9. Arquivos e pastas de uso do programa**
+# ------------------------------------------------------------------------------
+
+# **Arquivos que são usados pelos scripts para a sua utilização.**
+
+data/
