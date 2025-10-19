@@ -10,6 +10,9 @@ langchain-community = "*"
 sentence-transformers = "*"
 chromadb = "*"
 pypdf2 = "*"
+google-generativeai = "*"
+python-dotenv = "*"
+langchain-google-genai = "*"
 
 [dev-packages]
 
