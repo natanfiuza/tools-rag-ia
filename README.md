@@ -125,12 +125,3 @@ Vamos construir juntos uma ferramenta incrível para a comunidade\!
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://www.google.com/search?q=LICENSE) para mais detalhes.
 
------
-
-### Dicas Adicionais para Você, Natan:
-
-1.  **Banner:** Crie uma imagem de banner simples e visualmente agradável para colocar no topo do `readme.md`. Isso torna o projeto mais profissional e atrativo. Você pode usar ferramentas como o Canva.
-2.  **GIF de Demonstração:** Se possível, grave um pequeno GIF mostrando o script em ação (por exemplo, executando o `main.py` e depois um script de consulta). Isso ajuda muito os iniciantes a entenderem o que esperar.
-3.  **Arquivo `LICENSE`:** Não se esqueça de adicionar um arquivo `LICENSE` no seu repositório. A licença MIT é uma ótima escolha para projetos open-source.
-4.  **Detalhes de Configuração:** Se o seu projeto precisar de chaves de API (por exemplo, para usar um modelo da OpenAI), adicione uma seção explicando como configurar as variáveis de ambiente (usando um arquivo `.env`, por exemplo).
-
